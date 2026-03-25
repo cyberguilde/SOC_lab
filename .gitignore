@@ -1,0 +1,10 @@
+# Fichiers temporaires ou de logs
+*.log
+*.tmp
+
+# Répertoires générés par Docker
+wazuh/logs/
+suricata/logs/
+grafana/data/
+thehive/data/
+cassandra/data/
